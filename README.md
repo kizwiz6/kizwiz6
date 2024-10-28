@@ -2,7 +2,7 @@
 - 👋 Hello world, I’m Kieran (@kizwiz6).
 - :house: I'm a developer from Cambridgeshire, UK.
 - 👀 I’m interested in coding, guitars, video games, films, politics, environmentalism, animals, fitness. 
-- 🌱 I’m currently progressing my knowledge on C# and .NET framework. I am eager to learn more about Java and React Native.
+- 🌱 I’m currently progressing my knowledge on C# and .NET framework. I am also upskilling in React Native.
 - :handshake: I’m looking to collaborate on any project! I have an idea for a passion project involving a unique mobile application that I'm eager to work on.
 - 📫 How to reach me by email kizwiz@hotmail.co.uk
 
